@@ -7,8 +7,6 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using SpaceShooter.Managers;
 using SpaceShooter.Models;
-using SpaceShooter.Managers;
-using SpaceShooter.Models;
 
 namespace SpaceShooter.Sprites
 {

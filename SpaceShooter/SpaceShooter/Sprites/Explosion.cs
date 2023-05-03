@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using SpaceShooter.Managers;
 using SpaceShooter.Models;
-using SpaceShooter.Models;
 
 namespace SpaceShooter.Sprites
 {

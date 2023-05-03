@@ -7,7 +7,6 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using SpaceShooter.Models;
 using Microsoft.Xna.Framework.Input;
-using SpaceShooter.Models;
 using SpaceShooter.Sprites;
 using SpaceShooter;
 

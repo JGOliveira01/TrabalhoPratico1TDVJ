@@ -11,9 +11,9 @@ using SpaceShooter.Managers;
 using SpaceShooter.States;
 using SpaceShooter;
 using SpaceShooter.Controls;
-using SpaceShooter.Managers;
 
-namespace Tutorial020.States
+
+namespace SpaceShooter.States
 {
     public class HighscoresState : State
     {

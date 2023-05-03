@@ -9,12 +9,10 @@ using Microsoft.Xna.Framework.Graphics;
 using SpaceShooter.Sprites;
 using Microsoft.Xna.Framework.Input;
 using SpaceShooter.Managers;
-using SpaceShooter.Managers;
-using SpaceShooter.Sprites;
 using SpaceShooter.States;
 using SpaceShooter;
 using System.Reflection;
-using Tutorial020.States;
+
 
 namespace SpaceShooter.States
 {
