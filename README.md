@@ -1,5 +1,5 @@
 # TrabalhoPratico1TDVJ
-Repositório do Trabalho Pratico 01 - Tecnicas De Desenvolvimento de Videojogos - 18816 & 25955
+Repositório do Trabalho Pratico 01 - Tecnicas De Desenvolvimento de Videojogos - 18816(José Oliveira) & 25955(David Cruz)
 
 Este SpaceShooter é um jogo (de 1 até 2 jogadores) no qual o jogador controla uma nave espacial. O objetivo do jogo é que o jogador consiga o máximo de score enquanto viaja no espaço sem perder todas as suas vidas. No espaço, irá encarar diversos obstáculos, naves inimigas que dificultaram a missão do jogador. Em seu favor, o jogador terá acesso a uma metrelhadora que poderá usar em sua defesa.
 
