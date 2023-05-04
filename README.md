@@ -13,7 +13,7 @@ UnloadContent(): Será chamado de vez em quando para remover componentes desnece
 Pasta Content 
 Contem todos os assets necessários para o funcionamento do jogo.
 Pasta Controls 
-Button.cs: Classe que controla os controles dos jogadores. Define o tamanho, a posição, o texto e a aparencia dos controlos.
+Button.cs: Classe que controla o manusiamento do menu define o tamanho, posição, aparência e o texto apresentado nos botões.
 Pasta Managers 
 AnimationManager.cs: Classe que tem como objetivo o de todas as animações do jogo. Tem métodos que desenham, atualizam, iniciam e param animações.
 EnemyManager.cs: É responsável pelo controlo dos inimigos. Tem propriedades que definem o valor máximo de inimigos, o tempo entre o spawn de inimigos e a quantidade de projéteis que eles lançam contra o jogador. Tem também métodos para atualizar e adicionar novos inimigos.
